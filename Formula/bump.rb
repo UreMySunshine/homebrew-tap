@@ -3,8 +3,8 @@ class Bump < Formula
 
   desc "Terminal dashboard for Homebrew, npm, and standalone tool updates"
   homepage "https://github.com/UreMySunshine/bump"
-  url "https://github.com/UreMySunshine/bump/releases/download/v0.1.2/bump-0.1.2.tar.gz"
-  sha256 "0934fad0582056e7e07545517389ee91ddf61927be17b311d01f30a0ca166ba9"
+  url "https://github.com/UreMySunshine/bump/releases/download/v0.1.3/bump-0.1.3.tar.gz"
+  sha256 "9c74924a715650da282e8c3c5fe935f5289ddd9860095c44660322dcc7e34355"
   license "MIT"
 
   depends_on "python@3.14"
